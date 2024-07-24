@@ -59,7 +59,7 @@
 
 ## Note ##
 
-Request you to please find the Removing Outliers images in the folder name(Outliers_images). It was not showing properly in the python file thats why created the folder and put screenshot for visibility.
+Request you to please find the Removing Outliers images in the folder name(Outliers_images). It was not showing properly in the GitHub python(.ipynb) file thats why created the folder and put screenshot for visibility.
 
 
 ## Acknowledgements
