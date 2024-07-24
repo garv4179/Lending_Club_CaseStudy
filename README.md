@@ -57,6 +57,11 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Note ##
+
+Request you to please find the Removing Outliers images in the folder name(Outliers_images). It was not showing properly in the python file thats why created the folder and put screenshot for visibility.
+
+
 ## Acknowledgements
 
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
